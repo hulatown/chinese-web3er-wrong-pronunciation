@@ -11,7 +11,6 @@
 | [Evmos](https://evmos.org/)                    | /'evmɒs/         | /'ɛvmos/         | ❌ /i:vmos/   |
 | [Gnoland](https://gno.land/)                   | /'nəʊlænd/       | /'nolænd/        | ❌ /gˈnolænd/ |
 | [Gnosis](https://gnosis-safe.io/)              | /'nəʊsɪs/        | /ˈnosɪs/         | ❌ /gˈnosɪs/  |
-| [Monero](https://www.getmonero.org/)           | /mə'nɛ:rʊə/      |                  |                |
 | [Messari](https://messari.io/)                 | /'məsɑrɪ/        | /'məsɑrɪ/        |               |
 | [Monero](https://www.getmonero.org/)           | /mə'nɛ:rʊə/      |                  |                |
 | [Nitro](https://github.com/OffchainLabs/nitro) | /'naɪtrəʊ/       | /naɪtrə/         | ❌ /'nɪtrəʊ/  |
