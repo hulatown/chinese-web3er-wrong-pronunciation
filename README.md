@@ -11,6 +11,7 @@
 | [Evmos](https://evmos.org/)                    | /'evmɒs/         | /'ɛvmos/         | ❌ /i:vmos/   |
 | [Gnoland](https://gno.land/)                   | /'nəʊlænd/       | /'nolænd/        | ❌ /gˈnolænd/ |
 | [Gnosis](https://gnosis-safe.io/)              | /'nəʊsɪs/        | /ˈnosɪs/         | ❌ /gˈnosɪs/  |
+| [Monero](https://www.getmonero.org/)           | /mə'nɛ:rʊə/      |                  |                |
 | [Messari](https://messari.io/)                 | /'məsɑrɪ/        | /'məsɑrɪ/        |               |
 | [Nitro](https://github.com/OffchainLabs/nitro) | /'naɪtrəʊ/       | /naɪtrə/         | ❌ /'nɪtrəʊ/  |
 | [Nym](https://nymtech.net/)                    | /nɪm/            | /nɪm/            | ❌ /naɪm/     |
@@ -25,6 +26,7 @@
 | perpetual    | /pə'petʃʊəl/     | /pɚ'pɛtʃuəl/     |                   |
 | shard        | /ʃɑːd/           | /ʃɑrd/           | ❌ /ʃeɪd/         |
 | solidity     | /sə'lɪdɪtɪ/      | /sə'lɪdəti/      | ❌ /sɒ'lɪdəti/    |
+| swap         | /swɔp/           | /swɑp/           | ❌ /swæp/         |
 | WASM         | /ˈwɒz(ə)m/       | /ˈwʌz(ə)m/       |                   |
 
 ### 通用词语
