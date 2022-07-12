@@ -13,6 +13,7 @@
 | [Gnosis](https://gnosis-safe.io/)              | /'nəʊsɪs/        | /ˈnosɪs/         | ❌ /gˈnosɪs/  |
 | [Monero](https://www.getmonero.org/)           | /mə'nɛ:rʊə/      |                  |                |
 | [Messari](https://messari.io/)                 | /'məsɑrɪ/        | /'məsɑrɪ/        |               |
+| [Monero](https://www.getmonero.org/)           | /mə'nɛ:rʊə/      |                  |                |
 | [Nitro](https://github.com/OffchainLabs/nitro) | /'naɪtrəʊ/       | /naɪtrə/         | ❌ /'nɪtrəʊ/  |
 | [Nym](https://nymtech.net/)                    | /nɪm/            | /nɪm/            | ❌ /naɪm/     |
 | [Paradigm](https://www.paradigm.xyz/)          | /'pærədaɪm/      | /ˈpærədaɪm/      | ❌ /'pɑrɑdɪgm/ |
