@@ -6,16 +6,18 @@
 ### 项目与产品
 | 单词                                           | 正确发音（英音） | 正确发音（美音） | 错误发音      |
 | ---------------------------------------------- | ---------------- | ---------------- | ------------- |
-| [Archway](https://archway.io/)                 | /ɑːtʃweɪ/        | /ɑrtʃwe/         | ❌ /ɑːkweɪ/   |
+| [AAVE](https://aave.com/)                      | "aah-vé"         | "aah-vé"         |                |
+| [Archway](https://archway.io/)                 | /ɑːtʃweɪ/        | /ɑrtʃwe/         | ❌ /ɑːkweɪ/    |
 | [Doge](https://dogecoin.com/)                  | /dəʊdʒ/          | /dodʒ/           | ❌ /dɔɡ/       |
-| [Evmos](https://evmos.org/)                    | /'evmɒs/         | /'ɛvmos/         | ❌ /i:vmos/   |
-| [Gnoland](https://gno.land/)                   | /'nəʊlænd/       | /'nolænd/        | ❌ /gˈnolænd/ |
-| [Gnosis](https://gnosis-safe.io/)              | /'nəʊsɪs/        | /ˈnosɪs/         | ❌ /gˈnosɪs/  |
-| [Messari](https://messari.io/)                 | /'məsɑrɪ/        | /'məsɑrɪ/        |               |
+| [Evmos](https://evmos.org/)                    | /'evmɒs/         | /'ɛvmos/         | ❌ /i:vmos/    |
+| [Gnoland](https://gno.land/)                   | /'nəʊlænd/       | /'nolænd/        | ❌ /gˈnolænd/  |
+| [Gnosis](https://gnosis-safe.io/)              | /'nəʊsɪs/        | /ˈnosɪs/         | ❌ /gˈnosɪs/   |
+| [Messari](https://messari.io/)                 | /'məsɑrɪ/        | /'məsɑrɪ/        |                |
 | [Monero](https://www.getmonero.org/)           | /mə'nɛ:rʊə/      |                  |                |
-| [Nitro](https://github.com/OffchainLabs/nitro) | /'naɪtrəʊ/       | /naɪtrə/         | ❌ /'nɪtrəʊ/  |
-| [Nym](https://nymtech.net/)                    | /nɪm/            | /nɪm/            | ❌ /naɪm/     |
+| [Nitro](https://github.com/OffchainLabs/nitro) | /'naɪtrəʊ/       | /naɪtrə/         | ❌ /'nɪtrəʊ/   |
+| [Nym](https://nymtech.net/)                    | /nɪm/            | /nɪm/            | ❌ /naɪm/      |
 | [Paradigm](https://www.paradigm.xyz/)          | /'pærədaɪm/      | /ˈpærədaɪm/      | ❌ /'pɑrɑdɪgm/ |
+| [POAP](https://poap.xyz/)                      | "poh-ap"         | "poh-ap"         | ❌ "pope"      |
 
 ### 技术类词语
 | 单词         | 正确发音（英音） | 正确发音（美音） | 错误发音          |
