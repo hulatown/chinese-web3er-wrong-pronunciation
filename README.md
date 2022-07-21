@@ -26,6 +26,7 @@
 | data         | /'deɪtə/         | /'detə/          |                   |
 | deposit      | /dɪ'pɒzɪt/       | /dɪ'pɑzɪt/       |                   |
 | enshrine     | /ɪn'ʃraɪn/       | /ɪn'ʃraɪn/       | ❌ /'ɪnʃrɪn/      |
+| gas          | /gæs/            | /ɡæs/            |                   |
 | perpetual    | /pə'petʃʊəl/     | /pɚ'pɛtʃuəl/     |                   |
 | shard        | /ʃɑːd/           | /ʃɑrd/           | ❌ /ʃeɪd/         |
 | solidity     | /sə'lɪdɪtɪ/      | /sə'lɪdəti/      | ❌ /sɒ'lɪdəti/    |
@@ -41,4 +42,5 @@
 | legit     | /lɪ'dʒɪt/        | /lɪ'dʒɪt/        | ❌ /'ledʒɪt/ |
 | mechanism | /'mek(ə)nɪz(ə)m/ | /'mɛkənɪzəm/     |              |
 | meme      | /mi:m/           | /mi:m/           | ❌ /mi:mi:/  |
+| mod       | /mɒd/            | /mɒd/            |              |
 | rare      | /reə/            | /rɛr/            |              |
