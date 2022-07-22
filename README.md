@@ -10,6 +10,7 @@
 | [Archway](https://archway.io/)                 | /ɑːtʃweɪ/        | /ɑrtʃwe/         | ❌ /ɑːkweɪ/    |
 | [Doge](https://dogecoin.com/)                  | /dəʊdʒ/          | /dodʒ/           | ❌ /dɔɡ/       |
 | [Evmos](https://evmos.org/)                    | /'evmɒs/         | /'ɛvmos/         | ❌ /i:vmos/    |
+| [Gemini](https://www.gemini.com/)              | /'dʒeminai/      | /ˈdʒɛməˌnaɪ/     |                |
 | [Gnoland](https://gno.land/)                   | /'nəʊlænd/       | /'nolænd/        | ❌ /gˈnolænd/  |
 | [Gnosis](https://gnosis-safe.io/)              | /'nəʊsɪs/        | /ˈnosɪs/         | ❌ /gˈnosɪs/   |
 | [Messari](https://messari.io/)                 | /mə'sɑrɪ/        | /mə'sɑrɪ/        |                |
@@ -18,6 +19,7 @@
 | [Nym](https://nymtech.net/)                    | /nɪm/            | /nɪm/            | ❌ /naɪm/      |
 | [Paradigm](https://www.paradigm.xyz/)          | /'pærədaɪm/      | /ˈpærədaɪm/      | ❌ /'pɑrɑdɪgm/ |
 | [POAP](https://poap.xyz/)                      | "poh-ap"         | "poh-ap"         | ❌ "pope"      |
+| [Sui](https://sui.io/)                         | /swiː/           | /swi/            |                |
 
 ### 技术类词语
 | 单词         | 正确发音（英音） | 正确发音（美音） | 错误发音          |
