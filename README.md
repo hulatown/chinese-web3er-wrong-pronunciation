@@ -46,3 +46,5 @@
 | meme      | /mi:m/           | /mi:m/           | ❌ /mi:mi:/  |
 | mod       | /mɒd/            | /mɒd/            |              |
 | rare      | /reə/            | /rɛr/            |              |
+| thesis    | /'θiːsɪs/        | /'θisɪs/         | ❌ /'θesɪs/  |
+| theses    | /'θisɪz/         | /'θisɪz/         | ❌ /'θesɪz/  |
