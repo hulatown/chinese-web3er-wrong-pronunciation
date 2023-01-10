@@ -9,6 +9,7 @@
 | [AAVE](https://aave.com/)                      | "aah-vé"         | "aah-vé"         |                |
 | [Archway](https://archway.io/)                 | /ɑːtʃweɪ/        | /ɑrtʃwe/         | ❌ /ɑːkweɪ/    |
 | [Doge](https://dogecoin.com/)                  | /dəʊdʒ/          | /dodʒ/           | ❌ /dɔɡ/       |
+| [Eigen(EigenLayer)](https://www.eigenlayer.com/) | /'aɪgən/         | /'aɪgən/         | ❌ /'i:gən/    |
 | [Evmos](https://evmos.org/)                    | /'evmɒs/         | /'ɛvmos/         | ❌ /i:vmos/    |
 | [Gemini](https://www.gemini.com/)              | /'dʒeminai/      | /ˈdʒɛməˌnaɪ/     |                |
 | [Gnoland](https://gno.land/)                   | /'nəʊlænd/       | /'nolænd/        | ❌ /gˈnolænd/  |
